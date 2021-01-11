@@ -38,5 +38,7 @@ public class Median {
 
         System.out.println("The median is ="+ med3(a, b, c));
 
+        input.close();
+
     }
 }
